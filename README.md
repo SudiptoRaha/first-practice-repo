@@ -1,4 +1,5 @@
-<!-- Markdown -->
+<!-- Markdown guide link-->
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 ## Sudipto Raha
 
 <p>
@@ -65,4 +66,5 @@ https://www.youtube.com
 | Name | Email |
 | ----- | ----- |
 | Sudipto Raha | sudiptoraha78@gmail.com |
+
 | Rajdip Rudra | rajdip.04@gamil.com |

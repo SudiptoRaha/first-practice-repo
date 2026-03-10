@@ -1,2 +1,3 @@
 This is file 1
 I am adding new line to the file.
+I am adding another new line to the file.

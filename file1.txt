@@ -2,3 +2,9 @@ This is file 1
 I am adding new line to the file.
 I am adding another new line to the file.
 I am adding another new line to the file form remote or github.
+
+Sudipto Info :
+Sudipto Raha
+24 years old
+compleated graduation in CSE
+currently working as a Associate Software Engineer at OLL.E, Inc
